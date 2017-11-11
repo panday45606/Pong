@@ -6,6 +6,8 @@ body {
 	background-color: black;
 	font-family: Myriad Pro;
 	color: white;
+	height: 600px;
+	width: 800px;
 }
 
 #canvas {
