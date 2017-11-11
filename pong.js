@@ -162,7 +162,7 @@ $(document).ready(function() {
 		}
 		ctx.restore();
 	}
-	$(document).on("keydown", function(){
+	$(document).on("keyup", function(){
 		keyPressed = null;
 	});
 	$(document).on("keydown", function(e){
